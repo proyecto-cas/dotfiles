@@ -94,16 +94,17 @@ __NOTA:__ Es recomendable que use la ruta ``~/Downloads`` o ``~/Descargas`` para
 7. Instalar __rofi__:
 
 	Instalando __rofi__:
-		sudo apt-get install rofi -y
+	
+		 sudo apt-get install rofi -y
 
 8. Instalar __gnome-terminal__ (OPCIONAL): 
 	
 	Instalar __gnome-terminal__:
 
-		sudo apt install gnome-terminal -y
+		 sudo apt install gnome-terminal -y
 
 	Aplicando el tema nord en la terminal:
 		
-    sudo apt-get install dconf-cli uuid-runtime
+    		 sudo apt-get install dconf-cli uuid-runtime
 		
 		 
