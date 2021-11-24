@@ -105,6 +105,6 @@ __NOTA:__ Es recomendable que use la ruta ``~/Downloads`` o ``~/Descargas`` para
 
 	Aplicando el tema nord en la terminal:
 		
-    		 sudo apt-get install dconf-cli uuid-runtime
+    	sudo apt-get install dconf-cli uuid-runtime
 		
 		 
