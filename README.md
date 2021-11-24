@@ -1,6 +1,6 @@
 <h1 align="center">Dotfiles & Configs</h1>	
 
-![Dotfiles](.images/git-dot1.png)
+![Dotfiles](git-dot1.png)
 
 ## Dependencias
 * bspwm
